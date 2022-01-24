@@ -1,1 +1,1 @@
-# typescript-cc
+# typescript-crashcourse
